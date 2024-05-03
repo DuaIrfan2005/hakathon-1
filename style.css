@@ -1,0 +1,13 @@
+.purple{
+    background-color: purple;
+    color: white;
+}
+.color{
+    background-color: rgb(154, 128, 154);
+}
+.hover{
+    background-color: white;
+}
+.hover:hover{
+    background-color: purple;
+}
